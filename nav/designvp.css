@@ -1,0 +1,208 @@
+.title {
+    background-color: #d3d1d1;
+    padding: 15% 20%;}
+    
+  
+
+.container-fluid {
+    padding: 3% 15%;
+    }
+
+    h1 {
+        color: #7b2ba0;
+        font-size: 8rem;
+        font-family: 'Bebas Neue', cursive;
+        text-align: left;
+    }
+
+    p {
+        font-family: 'Montserrat';
+        font-size: 1.5rem;
+        text-align: center; 
+    }
+
+    h2 {
+        font-family: 'Tilt Warp', cursive;
+        text-align: center;
+        font-size: 3.5rem;
+    }
+
+    h3 {
+        font-family: 'Montserrat';
+        font-size: 2rem;
+        text-align: center;
+        color: black;
+        padding: 10px 20px;
+    }
+
+    h4 {
+        color: white;
+        font-family: 'Montserrat';
+    }
+
+    /* navigation Bar */
+
+.navbar {
+    padding-bottom: 0px;
+padding-top: 0px;
+background-color: #d3d1d1;
+padding-left: 5%;
+padding-right: 3%;
+}
+
+.navbar-brand {
+    color: #7b2ba0;
+    font-family: "Ubuntu";
+    font-size: 3rem;
+    font-weight: bold;
+}
+.nav-item {
+    padding: 0 18px;
+}
+
+.nav-link {
+    color: #7b2ba0;
+    font-size: 1.5rem;
+    font-family: "Montserrat";
+    font-weight: bold;
+}
+.nav-link:hover {
+color: #4f0272;
+}
+
+
+
+    #information {
+        padding: 10em 15em 10em 15em;
+    }  
+    
+    
+    #title-img {
+        width: 70%;
+        transform: rotate(25deg);
+
+    }
+
+    .container-img {
+        width: 80%;
+    }
+
+
+    .polaroid {
+        width: auto;
+        background-color: white;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        margin-bottom: 10px;
+        margin-right: 25px;
+      }
+
+      .image-row {
+        width: 50%;
+        width: auto;
+        height: auto;
+        margin: 10px;
+        border-radius: 4px;
+         }
+
+         .last-img {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 20%;
+         }
+         
+
+.testimonials-purple {
+    color: white;
+    background-color: #b871f1;
+    text-align: justify;
+    padding-left: 1px;
+    padding-right: 1px;
+    }
+
+.container-personajes {
+    padding-bottom: 10px;
+    font-family: 'Montserrat';
+    font-size: 1.5rem;
+    text-align: justify;
+    text-align: center;
+    margin: auto;
+}
+
+
+    hr {
+        margin-left: auto;
+        margin-right: auto;
+        border-style: none;
+        border-top-style: dotted;
+        border-color: rgb(16, 1, 29);
+        border-width: 5px;
+        width: 5%;
+        margin-top: 100px;
+        margin-bottom: 100px;
+      }
+      
+
+    .container {
+        padding: 3% ;
+        text-align: justify;
+    }
+
+
+    .feature-box {
+        font-family: 'Montserrat', sans-serif;
+        text-align: center;
+        font-size: 15px;
+        padding: 5%;
+    }
+
+    
+    #press {
+        background-color: #b871f1;
+        text-align: center;
+        padding-top: 10vh;
+        padding-bottom: 10vh;
+     }
+     
+    .press-logo {
+        width: 3%;
+        margin: 10px 10px 5px;
+    }
+
+
+    #copyright {
+        color: white;
+    }
+
+
+.btn {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 1%;
+    color: white;
+    font-family: "ubuntu";
+    font-size: 1.5rem;
+    font-weight: bold;
+    background-color: rgb(156, 45, 201);
+    border-color: rgb(156, 45, 201);
+   }
+
+
+   #cta {
+    padding: 3% 10%;
+}
+
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+}
+
+#nota {
+    text-align: justify;
+    padding-left: 15%;
+    padding-right: 15%;
+    font-size: 2rem;
+}
